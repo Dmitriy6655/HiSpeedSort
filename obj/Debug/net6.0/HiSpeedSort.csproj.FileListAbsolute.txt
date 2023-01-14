@@ -1,0 +1,5 @@
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\HiSpeedSort.csproj.AssemblyReference.cache
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\HiSpeedSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\HiSpeedSort.AssemblyInfoInputs.cache
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\HiSpeedSort.AssemblyInfo.cs
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\HiSpeedSort.csproj.CoreCompileInputs.cache
