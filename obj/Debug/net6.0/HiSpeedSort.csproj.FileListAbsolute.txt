@@ -3,3 +3,13 @@ C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОг�
 C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\HiSpeedSort.AssemblyInfoInputs.cache
 C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\HiSpeedSort.AssemblyInfo.cs
 C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\HiSpeedSort.csproj.CoreCompileInputs.cache
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\bin\Debug\net6.0\HiSpeedSort.exe
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\bin\Debug\net6.0\HiSpeedSort.deps.json
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\bin\Debug\net6.0\HiSpeedSort.runtimeconfig.json
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\bin\Debug\net6.0\HiSpeedSort.dll
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\bin\Debug\net6.0\HiSpeedSort.pdb
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\HiSpeedSort.dll
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\refint\HiSpeedSort.dll
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\HiSpeedSort.pdb
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\HiSpeedSort.genruntimeconfig.cache
+C:\Users\Тимофей\Desktop\TIMOFEY\УЧЕБА GB\БУТКЕМП   ПРОграммирование с 1 01 2023\Быстрая сортировка\HiSpeedSort\obj\Debug\net6.0\ref\HiSpeedSort.dll
